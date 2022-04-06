@@ -68,11 +68,6 @@ Once we have the BackEnd raised, we have to raise the FrontEnd with an npm start
 
 </div>
 
-## ✍️ Authors <a name = "authors"></a>
-
-- [@joanbatiste](https://github.com/joanbatiste) - Idea & Work
-- [@carlosval](https://github.com/Carlos-Val) - Idea & Work
-
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 -  I would like to thank all the classmates for the help they have offered us to be able to finish this project successfully. Without them this would not have happened. Thank you very much people and a lot of chill
